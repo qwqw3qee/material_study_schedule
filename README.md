@@ -1,8 +1,8 @@
 # material_study_schedule
-![demo1](\demo1.png)
-![demo2](\demo2.png)
-![demo3](\demo3.png)
-![demo4](\demo4.png)
+![demo1](https://github.com/qwqw3qee/material_study_schedule/blob/master/demo1.png)
+![demo2](https://github.com/qwqw3qee/material_study_schedule/blob/master/demo2.png)
+![demo3](https://github.com/qwqw3qee/material_study_schedule/blob/master/demo3.png)
+![demo4](https://github.com/qwqw3qee/material_study_schedule/blob/master/demo4.png)
 ### 科大学习助手
 
 
